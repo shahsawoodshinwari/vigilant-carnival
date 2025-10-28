@@ -1,0 +1,1 @@
+import{d as o,c as t,w as a,u as n,I as r,a as s,o as c}from"./index-jZ4aiIlk.js";const l="/assets/logo-D5yuhLN2.png",_=o({__name:"LoginPage",setup(u){return(i,e)=>(c(),t(n(r),{fullscreen:!0},{default:a(()=>[...e[0]||(e[0]=[s("div",{class:"ion-center"},[s("img",{src:l,class:"mx-auto",alt:"logo"})],-1)])]),_:1}))}});export{_ as default};
