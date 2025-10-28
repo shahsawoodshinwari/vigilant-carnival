@@ -1,0 +1,1 @@
+import{d as s,c as t,u as o,o as n,w as r,a,I as c}from"./index-Bbmfu-PB.js";const l="/vigilant-carnival/assets/logo-D5yuhLN2.png",_=s({__name:"LoginPage",setup(i){return(u,e)=>(n(),t(o(c),{fullscreen:!0},{default:r(()=>[...e[0]||(e[0]=[a("div",{class:"ion-center"},[a("img",{src:l,class:"mx-auto",alt:"logo"})],-1)])]),_:1}))}});export{_ as default};
