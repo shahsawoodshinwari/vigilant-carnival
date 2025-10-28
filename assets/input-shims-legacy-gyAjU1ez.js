@@ -1,4 +1,4 @@
-System.register(["./index-legacy-DUjNWM6O.js","./index8-legacy-3o-tLgXb.js","./keyboard2-legacy-kZ-ZeGnz.js"],function(e,t){"use strict";var o,n,i,r,s,a,d,l,c,u,v;return{setters:[e=>{o=e.q,n=e.y,i=e.z,r=e.v,s=e.l,a=e.A},e=>{d=e.f,l=e.g,c=e.a},e=>{u=e.K,v=e.a}],execute:function(){
+System.register(["./index-legacy-BNDB3W0X.js","./index8-legacy-DfSp0b-C.js","./keyboard2-legacy-DSkYpMFj.js"],function(e,t){"use strict";var o,n,i,r,s,a,d,l,c,u,v;return{setters:[e=>{o=e.t,n=e.A,i=e.B,r=e.y,s=e.n,a=e.C},e=>{d=e.f,l=e.g,c=e.a},e=>{u=e.K,v=e.a}],execute:function(){
 /*!
              * (C) Ionic http://ionicframework.com - MIT License
              */
