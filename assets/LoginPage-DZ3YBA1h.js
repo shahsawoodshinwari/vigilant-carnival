@@ -1,1 +1,0 @@
-import{d as t,c as a,w as s,u as n,I as r,a as o,o as c}from"./index-UXXVyXvL.js";const l=""+new URL("logo-D5yuhLN2.png",import.meta.url).href,p=t({__name:"LoginPage",setup(u){return(i,e)=>(c(),a(n(r),{fullscreen:!0},{default:s(()=>[...e[0]||(e[0]=[o("div",{class:"ion-center"},[o("img",{src:l,class:"mx-auto",alt:"logo"})],-1)])]),_:1}))}});export{p as default};
