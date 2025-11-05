@@ -1,1 +1,0 @@
-var c=Object.defineProperty;var s=(t,r,e)=>r in t?c(t,r,{enumerable:!0,configurable:!0,writable:!0,value:e}):t[r]=e;var a=(t,r,e)=>s(t,typeof r!="symbol"?r+"":r,e);class m{static format(r){return this.formatter.format(r).replace(".00","")}}a(m,"formatter",new Intl.NumberFormat("en-PK",{style:"currency",currency:"PKR"}));export{m as C};
